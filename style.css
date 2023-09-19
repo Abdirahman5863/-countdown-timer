@@ -8,28 +8,32 @@ body {
 }
 
 .timer {
-    background-color: #cb124d;
+    background-color: #17202d;
     padding: 20px;
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 10px rgba(158, 46, 46, 0.2);
     margin: 20px auto;
     max-width: 400px;
 }
 
 h1 {
     font-size: 24px;
-    color: blue;
+    color: rgb(132, 9, 27);
 }
 
 .countdown-item {
     display: inline-block;
     margin: 0 10px;
     font-size: 36px;
-    color: #0de74e;
+    color: #3c0de7;
 }
 
 #countdown {
     font-size: 36px;
     margin-top: 20px;
     color: aquamarine;
+}
+body{
+background-image: url(public/usama.jpg );
+border-image-outset: 500px;
 }
